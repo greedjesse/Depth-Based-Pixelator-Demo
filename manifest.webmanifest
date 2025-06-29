@@ -1,11 +1,11 @@
 {
-    "name": "Depth-Based Pixelator",
-    "short_name": "Depth-Based Pixelator",
+    "name": "Depth-Based Pixelator (Asset)",
+    "short_name": "Depth-Based Pixelator (Asset)",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
     "theme_color": "#000",
-    "description": "wasd - move; click&drag - look",
+    "description": "",
     "icons": [{
       "src": "TemplateData/icons/unity-logo-dark.png",
       "sizes": "144x144",
